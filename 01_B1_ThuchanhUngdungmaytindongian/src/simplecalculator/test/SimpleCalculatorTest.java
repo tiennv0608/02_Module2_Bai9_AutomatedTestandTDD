@@ -1,11 +1,11 @@
 package simplecalculator.test;
 
-import org.testng.annotations.Test;
+
 import org.junit.jupiter.api.DisplayName;
+import org.testng.annotations.Test;
 import simplecalculator.src.SimpleCalculator;
 
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SimpleCalculatorTest {
 
